@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .chart-container {
+        width: 100% !important;
+        height: 300px !important;
+    }
+}
